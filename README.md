@@ -1,7 +1,8 @@
 # cliii
 
-编译测试例
+一个通用的命令行组件, inspire by VPP.
 
+编译测试例
 ```
 gcc demo.c cli.c -g -o demo
 ```
@@ -12,3 +13,5 @@ gcc demo.c cli.c -g -o demo
 cd cli-ctl
 gcc cli-ctl.c -o cli-ctl
 ```
+
+blog: https://switch-router-nat.github.io/blog/cli/
